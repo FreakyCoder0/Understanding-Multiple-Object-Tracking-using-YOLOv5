@@ -1,0 +1,1 @@
+python train.py --img 640 --batch 4 --workers 1 --epochs 10 --data coco128.yaml --weights yolov5s.pt
